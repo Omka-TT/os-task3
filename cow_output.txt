@@ -1,0 +1,4 @@
+[родитель] до fork                 RSS=  124.8 MB  Pss=  120.7 MB  Private_Dirty=  118.6 MB  Shared=    6.2 MB
+[ребёнок] сразу после fork         RSS=  122.4 MB  Pss=   60.6 MB  Private_Dirty=    0.6 MB  Shared=  121.8 MB
+[ребёнок] после изменения списка   RSS=  122.8 MB  Pss=  118.1 MB  Private_Dirty=  115.4 MB  Shared=    7.3 MB
+[родитель] после ребёнка           RSS=  125.0 MB  Pss=  120.8 MB  Private_Dirty=  118.6 MB  Shared=    6.3 MB
